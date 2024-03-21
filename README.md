@@ -1,5 +1,5 @@
 # SOCIAL-MEDIA---BOTS
-Bots are computer programs that can help us do anything .Social Media boots are bots that can help us on social media platforms for posting , question-answering etc 
+Bots are computer programs that can help us do anything .Social Media bots are bots that can help us on social media platforms for posting , question-answering etc 
 Social Media Bots :
     They can post message , images and videos.
     They can answer questions and help us find information related a specific topic 
